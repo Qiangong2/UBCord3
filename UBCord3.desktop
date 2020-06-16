@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=UBCord3
+Exec=UBCord3 %U
+Icon=logo.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true

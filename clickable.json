@@ -1,0 +1,9 @@
+{
+  "clickable_minimum_required": "6.12.2",
+  "builder": "go",
+  "gopath": "/home/kurt/go",
+  "kill": "UBCord3",
+  "install_lib": [
+	"/usr/lib/x86_64-linux-gnu/libhandy-0.0.so*"
+  ]
+}
